@@ -22,7 +22,7 @@ Build a front-end app that uses data returned from one API to make a request to 
   - Description
   - Add the dog’s name and reason for visit.
 
-
+## APIS 
 
   - Dog CEO API: Dog CEO provides a free list of dog breeds and sub-breeds.
   [https://dog.ceo/api/breeds/list/all]
@@ -39,7 +39,7 @@ This tool provides general breed information only. It does not diagnose health c
 - Dog CEO API
 - TheDogAPI
 
-  ## How I feel about my code
+## How I feel about my code
 
 I completed the challenge: 5
 I feel good about my code: 4
