@@ -1,5 +1,7 @@
 # 🐾 Project: Veterinary Practice
 
+![homepage](img/homepage.png)
+![homepage](img/homepage1.png)
 Visit Prep is a front-end web app that helps new dog owners prepare for a veterinary visit.
 
 Users select a dog breed from the Dog CEO API. The app uses the selected breed information to search TheDogAPI for additional breed details, then generates a simple veterinary visit-preparation handout.
@@ -44,3 +46,7 @@ This tool provides general breed information only. It does not diagnose health c
 I completed the challenge: 5
 I feel good about my code: 4
 I feel that there is more to do for this project and I would like to go back and add improvements like saving the name and reason for visit in a BD.
+
+**live demo**
+
+https://clauya.github.io/complex-api-veterinary-practice/
